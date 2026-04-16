@@ -1,6 +1,2 @@
 streamlit
-librosa
 numpy
-sounddevice
-scipy
-matplotlib
